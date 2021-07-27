@@ -1,6 +1,6 @@
 {
-    "name": "fluttertodo",
-    "short_name": "fluttertodo",
+    "name": "first_app",
+    "short_name": "first_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
